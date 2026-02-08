@@ -2286,8 +2286,8 @@
         "video_url": "https://cloudins-cdn.ins.biz.id/media/Dj87DoHQnIOXEIpd1YjbMbD571wxQuG0meNG"
       },
       {
-       "index": 42,
-       "video_url": "https://cloudins-cdn.ins.biz.id/media/3q40GjTES4qW84ZXz1SphT0i3psFGslG1kUZ"
+        "index": 42,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/3q40GjTES4qW84ZXz1SphT0i3psFGslG1kUZ"
       },
       {
         "index": 43,
@@ -2488,6 +2488,75 @@
       {
         "index": 92,
         "video_url": "https://cloudins-cdn.ins.biz.id/media/fPTiVgXN3adnicbIgIuo7d7XwIpTl9TnytaU"
+      }
+    ]
+  },
+  {
+    "book_id": "1770548827619148469",
+    "title": "Tujuh Kakak, Satu Raja",
+    "description": "Raja Kegelapan Alden Wiratama kembali ke kota besar untuk mengungkap pembantaian berdarah keluarganya. Ia memiliki tujuh kakak seperguruan luar biasa: Fenny, CEO dingin; Livia misterius; Aluna pramugari internasional; Selly dokter legendaris; Irish penyiar cantik; Freya beridentitas rahasia; dan Adelisa ratu film. Dengan kekuatan tempur dan jaringan kuat, Alden menumpas organisasi gelap, melindungi kakak-kakaknya, serta menguak asal-usul dirinya.",
+    "cover_url": "https://cloudins-cdn.ins.biz.id/media/brL8vf83nFf1sdQk2FE0UOSSxPmzHtxaAzCg",
+    "created_at": "2026-02-08T11:07:07.620Z",
+    "episodes": [
+      {
+        "index": 1,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/KZC747x6vte6pLpu0X7Sg9Ld7nEtLONtFk0S"
+      },
+      {
+        "index": 2,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/FHxsaHA7uQU0QYBe349ZC6xrVV7O0E3nChWS"
+      },
+      {
+        "index": 3,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/BN4nUWxQZyV9L2SbmZBkKTbLLc3Gy5M8dT5g"
+      },
+      {
+        "index": 4,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/awt6MyJX5OksPo1TOKq5bcE554kzUsyFSODI"
+      },
+      {
+        "index": 5,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/BriCqswQ8Tl3o5mBaPtin4ErVpew9dovkR45"
+      },
+      {
+        "index": 6,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/VxORQqw35oCHcCcgNiC86izLqCgY5WlJs13p"
+      },
+      {
+        "index": 7,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/76Wk6MiEt8AnlTuVxORnQJjHpkFcDDVxx7oR"
+      },
+      {
+        "index": 8,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/oCgDIIYSI68MuRTdyxNwiomqfPWbjhHOtEOT"
+      },
+      {
+        "index": 9,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/XJaWsz6pG20jAk71F1JwQ8J7qlcUsYheGgtt"
+      },
+      {
+        "index": 10,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/KHZ377jseCHh7MoKIwc3499qro3N5zQt70cS"
+      },
+      {
+        "index": 11,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/2falT0PIo2rGTwuMyzpWMrw9DA7XYIfDYHVs"
+      },
+      {
+        "index": 12,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/DGkmHCJHi6GYZAGqZRmBiUvIhwrmO7WLCgIR"
+      },
+      {
+        "index": 13,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/4hVqCvmX6kAxvIpPtLvAbvnAsNHpyGa2YDc9"
+      },
+      {
+        "index": 14,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/8dNhZGmGXr9tuIVf3UZZqUFavJRw9MzItfSD"
+      },
+      {
+        "index": 15,
+        "video_url": "https://cloudins-cdn.ins.biz.id/media/8GUVCLRQrplb6YSCN4lUauWxxYlToF0TmtYr"
       }
     ]
   }
