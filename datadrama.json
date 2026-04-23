@@ -2,9 +2,17 @@
   {
     "book_id": "7630017917416901637",
     "title": "Lindungi Bos Dingin",
-    "genres": [],
-    "description": "",
-    "cover_url": "https://wsrv.nl/?output=jpg&url=ssl%3Ap16-novel-sg.ibyteimg.com%2Fnovel-images-sg%2Fd3e42e2482274c2939c3dcb351595954~tplv-shrink%3A640%3A0.heic",
+    "genres": [
+      "Fantasi perkotaan",
+      "Pemeran Utama Pria",
+      "Drama Kantor",
+      "Sistem",
+      {
+        "s": "arr"
+      }
+    ],
+    "description": "Rian mendapatkan sistem yang memberinya hadiah setiap kali ia menyatakan cinta pada CEO dingin dan cantik, Putri. Namun, ia hanya punya tiga kesempatan; jika Putri tidak benar-benar jatuh cinta padanya, Rian akan lenyap. Demi bertahan, ia berani dan protektif, membuat Putri mulai penasaran.",
+    "cover_url": "https://p16-novel-sg.ibyteimg.com/novel-images-sg/d3e42e2482274c2939c3dcb351595954~tplv-shrink:640:0.heic",
     "created_at": "2026-04-23T17:49:34.597Z",
     "episodes": [
       {
