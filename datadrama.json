@@ -51760,14 +51760,27 @@
   {
     "book_id": "7630017917416901637",
     "title": "Lindungi Bos Dingin",
-    "genres": [],
+    "genres": [
+      "Fantasi perkotaan",
+      "Pemeran Utama Pria",
+      "Drama Kantor",
+      "Sistem"
+    ],
     "description": "Rian mendapatkan sistem yang memberinya hadiah setiap kali ia menyatakan cinta pada CEO dingin dan cantik, Putri. Namun, ia hanya punya tiga kesempatan; jika Putri tidak benar-benar jatuh cinta padanya, Rian akan lenyap. Demi bertahan, ia berani dan protektif, membuat Putri mulai penasaran.",
-    "cover_url": "https://cloudins-cdn.insjay.biz.id/media/QhcoMQjLUUtNzQBNH2m4RIsnffz55d72zLkV",
-    "created_at": "2026-04-24T01:25:05.412Z",
+    "cover_url": "https://cloudins-cdn.insjay.biz.id/media/NC0BqC0ePcxD9q3JPayZo7gcPDwks48nyqWa",
+    "created_at": "2026-04-24T01:33:18.455Z",
     "episodes": [
       {
         "index": 1,
-        "video_url": "https://cloudins-cdn.insjay.biz.id/media/b6OpHu7oKvKygdjKYFmUw99RkWzdUR8YbUtK"
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/pvpnFqqMmypUWQ1orZ49i8Job99VlAvxzEce"
+      },
+      {
+        "index": 2,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/P4fIxxNesmEM82Abz9B8UmnUBmTPfCB0Qa8x"
+      },
+      {
+        "index": 3,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/XfsMp101tfUDpRHRTPQcopXM7RELPZy0A9cf"
       }
     ]
   }
