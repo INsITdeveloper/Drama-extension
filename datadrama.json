@@ -52067,10 +52067,14 @@
   {
     "book_id": "7616243362412104709",
     "title": "Cahaya Kasih untuk Nadia",
-    "description": "",
+    "description": "Usai gagal melamar kerja, Arif Santoso terikat Sistem Ayah Super dan bertemu Clara serta putrinya, Nadia. Kasih sayang Nadia memicu sistem hingga Arif meraih keahlian medis dan hadiah besar. Sebagai ayah tiri, ia menyelamatkan Nadia dari asma, memikat hati mereka lewat masakan, dan menjadi pelindung setia dari ancaman.",
     "cover_url": "https://cloudins-cdn.insjay.biz.id/media/CB6LX4b0jmncQF87GAtFO8lkXgufww6efVN3",
     "genres": [],
     "episodes": [
+      {
+        "index": 1,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/YhEXjlTa3Iy9ZGS7ZNcbPsr21gL4ZrIhRWIO"
+      },
       {
         "index": 2,
         "video_url": "https://cloudins-cdn.insjay.biz.id/media/QRJNd1HQrDnnL9mEMiBbKW4MkYhWNmJvGbte"
@@ -52078,6 +52082,10 @@
       {
         "index": 3,
         "video_url": "https://cloudins-cdn.insjay.biz.id/media/Cj7iu7WkpEvfoIt2zupgwF4guMqQSgvnfoG3"
+      },
+      {
+        "index": 4,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/pRErBScXiTwLEjITdAYWlGl0t98AAALSBCpc"
       },
       {
         "index": 5,
@@ -52090,8 +52098,287 @@
       {
         "index": 7,
         "video_url": "https://cloudins-cdn.insjay.biz.id/media/24VLVqi17lHJufcCdp1ZZI1dBR9bBzHfnmm4"
+      },
+      {
+        "index": 8,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/dv9xRcn5PhEbSWZ1fyVgJjTvBY9sszsexEDm"
+      },
+      {
+        "index": 9,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/x9VAHAjmK4nY8IWy3PwVQXGKcl7VhhjU6wgi"
+      },
+      {
+        "index": 10,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/7RoBa2zNvmyJdJ4FmoA63vUZu1Bg6ALKEwR2"
+      },
+      {
+        "index": 11,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/P1vYCBHxhaVOwHqbYTj9WR5PPIjQWa3XwPPr"
+      },
+      {
+        "index": 12,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/vPemHmx0eFwpF5Yhbm0ZsJsrDpFxpMo7n1ri"
+      },
+      {
+        "index": 13,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Xgat83ZF2uTlStJtGO2QrjZ3DZjrrLns6RZw"
+      },
+      {
+        "index": 14,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Ny3ibQlCoumhrapGaZm6ixlNX4MGS1Zk2Q8w"
+      },
+      {
+        "index": 15,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/TzsnfYUaVQ1c7NIBT5uNCnN7OXDlbGM5xIhP"
+      },
+      {
+        "index": 16,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/yfFLftTjfpeBpOBGlvGYbz1WyBRFmR4IoPFe"
+      },
+      {
+        "index": 17,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/CFTh6jh1f7Or2sLbc6ytORmJJOG4uZF4ktyT"
+      },
+      {
+        "index": 18,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/iaMIZP9rakslnHsIY6soE8Lr1uSClAEJlxsQ"
+      },
+      {
+        "index": 19,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/xfPdmViijSSQwHKA0kw5REUgxz0RLDE6Mryc"
+      },
+      {
+        "index": 20,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/g6ntc1nk4NRctQ8lAdOt6C5XmThW1CqSvKZL"
+      },
+      {
+        "index": 21,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/3NbqtY5WaSKpWZ6D0KX8P6YZy2SH9eyGtnpJ"
+      },
+      {
+        "index": 22,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/clIH8NUEpmYA6pll7F1LVNIHXNQpP9uByzDW"
+      },
+      {
+        "index": 23,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/s5X28mOahmcxVVCyntCyQG0mtyfIvHVs5LrX"
+      },
+      {
+        "index": 24,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/XwX8yiTXwN5PHhCr0sd86cQiEUsHap96YLRI"
+      },
+      {
+        "index": 26,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Z6nPKQGW4z87hMc5CwCae4To3nLer0eMn9ok"
+      },
+      {
+        "index": 27,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/VcpwKrmA3mqs77G5PN8FbeVEKPT84lUcc5H9"
+      },
+      {
+        "index": 28,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/xy10u6Vt3oEhDfhQVRoPmvMswFjhfCZBXjXR"
+      },
+      {
+        "index": 29,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/DzBSNtgtzCC4sDQitKNTTBEyHwqOkhDU5rqn"
+      },
+      {
+        "index": 30,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/u1UmLvAYMRQkkzkKrfhqftBNm4Jgpl9r6iij"
+      },
+      {
+        "index": 31,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/YuLze7c9QnUJ32bGoMqPykMhSiuInY1NqNW4"
+      },
+      {
+        "index": 32,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/fHbzD2xmAWCY6101IBRg4fjEXNZlfgRiLZbr"
+      },
+      {
+        "index": 33,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/iVTNQRr3IgqfoMiytpnUEO4lLlVeMdcrEMBN"
+      },
+      {
+        "index": 34,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/8DJqBMLpOzAUZcEtNJCRpffRWyD94ke0pPsd"
+      },
+      {
+        "index": 35,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/X6pMfLhuQhIjm2PlFVXPwqKkwLc6vloAjzxP"
+      },
+      {
+        "index": 36,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/6Gr5mTWQc4OwupT5qVzWQZU8r9vTLZ2XVbgy"
+      },
+      {
+        "index": 37,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/PYxsbexIXlPEqyA63GwYqP2bCRgoRSwLjSiP"
+      },
+      {
+        "index": 38,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/b1Fva1GhbuVKRPLnULyoGdikZx5gJ1Qx9OG8"
+      },
+      {
+        "index": 39,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/JcUo7v5cPFOsVF8wYUrmOLcziiGkZ8DZs8Gp"
+      },
+      {
+        "index": 40,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/VH7DooKPLrpmnf2DGMdmzafsjk4dowySce3E"
+      },
+      {
+        "index": 41,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/7gZisRt6WbfuoXofMLh97t9jUYT04PPBr002"
+      },
+      {
+        "index": 42,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/6qOlnjtRpofVpYgFnYPwZnQ37WMEjzpEYlEr"
+      },
+      {
+        "index": 43,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/4TBB0JTnFofbzHAHs90BZkAEXxif4ZHAsmOz"
+      },
+      {
+        "index": 44,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/z4EuFronCweinw88S9XhnMWDFBwfulZ6tgdp"
+      },
+      {
+        "index": 45,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/HGcA0EOP4p9kR6UxcBS6IXmcrgM6f4oK7nHh"
+      },
+      {
+        "index": 46,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/5tkd3sJFfjFtRyDjRbH1UN78etPzRoDrURwQ"
+      },
+      {
+        "index": 47,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/5RMnHA7zjui27JtN0GAsePHDV5x2NF1qNHFk"
+      },
+      {
+        "index": 49,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/qbjRoyZcLu3y62W3rJ1DvIN7pR9Ug2HsCbx3"
+      },
+      {
+        "index": 50,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/lDKcf5GpXdIYiKp9kzgSLwemJTBY5ORcVAMJ"
+      },
+      {
+        "index": 51,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/tVa0wRIUITxnBjiPYly5utpf81YyXHpb8nOr"
+      },
+      {
+        "index": 52,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Bhe22kcbm838EuMUkxvCBlOzVkFH8e6pcxYI"
+      },
+      {
+        "index": 53,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/xmaceTadDWqHHf9t2QNzwntSIuloirYSKTeg"
+      },
+      {
+        "index": 54,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/RxhjLtUSqjlUBU5TTVQFMZ2xqrGChjdpaniv"
+      },
+      {
+        "index": 55,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/HelAMBEe8X5a8mpyeo6uWIpt68Zv44yV3iDt"
+      },
+      {
+        "index": 56,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/gwaqvbQRunoKij0nWAVDUUVXfhuAihLdUfrQ"
+      },
+      {
+        "index": 57,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/hbypqAgfL9kkfchQHcFrRzjSP0z4LLDumV8G"
+      },
+      {
+        "index": 58,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/v5ccFfZBVMHFEgizS4Vx40gTvJn8kMIvTVTv"
+      },
+      {
+        "index": 59,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/TPIWu4efLVA4M9Mvq6tTMUt3jGzMOxb3fINV"
+      },
+      {
+        "index": 60,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/xWkzYen1LRaoiaVD6WMJrfXEnD4xrb2zIOsH"
+      },
+      {
+        "index": 61,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/otdZ9DylXzYMpVr0vBUDm6Kj0IGRLQSAAU0V"
+      },
+      {
+        "index": 62,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/9VLFyHFeiP5dVCk3X6oMUBkii9nCD95QfVgh"
+      },
+      {
+        "index": 64,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/6QwsWPEypCOgYwdSFq0rjUPGcDrvp1IKuNNi"
+      },
+      {
+        "index": 65,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/aeHJ0OX96KNbgiqYhy9Q6u9HCudoRHb9wOvr"
+      },
+      {
+        "index": 66,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/1HIYkd6oQJxreTYUT4VimF7oCrapEHgactE7"
+      },
+      {
+        "index": 67,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/6COAK8fJJ0WomvQUpiCP2psDxUbAXxRZs10h"
+      },
+      {
+        "index": 68,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/llNegBVPNm8teuJx42GJZYfqnq6ihLxqt2Hk"
+      },
+      {
+        "index": 69,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/EhvcyQvEtpkL105Yb89oZ5RBpjCKad67bBdV"
+      },
+      {
+        "index": 70,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/H8mAjv7klb67UXZ4jGIP9ZR5t7L5hdhh9i27"
+      },
+      {
+        "index": 71,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/fpZm5U2NMHiRMmWvMHMnG6VW0mk0v3jafPWn"
+      },
+      {
+        "index": 72,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/oG4jobtDR1b9ytoDCd7UiUSgTo7guyMmjI2n"
+      },
+      {
+        "index": 73,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/7hdQzad9bQDn8PReHXZrTpX1KaA17nr39RD9"
+      },
+      {
+        "index": 74,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/vQ7KyUHnxoiIwT1yItJlLd6TJbcxZIEymrFO"
+      },
+      {
+        "index": 75,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/thyIpBcsPFDuzXoERWLj378uxtTwpMMLD0Yx"
+      },
+      {
+        "index": 76,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/GQRH59JkJV9wQwtXPOwATpTI08QiBCVOCmyX"
+      },
+      {
+        "index": 77,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/oLe1DXOlnvC99jm3wjsePNTUwcrDUzOKFHsl"
+      },
+      {
+        "index": 78,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/oVhDKzKqkNP9pRhLquZ0QQxBNFVAch4zIWbQ"
+      },
+      {
+        "index": 79,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/74IHnOZuPTQjFZVAi5t20NuYGYgmsOznfKkV"
+      },
+      {
+        "index": 80,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/IHuaPkKgnDvAfTEt1iNbZoi3Npu5Gqgu5Loy"
       }
-    ],
-    "created_at": "2026-04-24T06:22:23.167Z"
+    ]
   }
 ]
