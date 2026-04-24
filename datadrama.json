@@ -56286,5 +56286,482 @@
         "uploaded_at": "2026-04-24T13:03:57.752Z"
       }
     ]
+  },
+  {
+    "book_id": "Raja-Bertahan-Hidup-7629645047645867013",
+    "title": "Raja Bertahan Hidup",
+    "genres": [
+      [
+        "Imajinasi Perkotaan",
+        "Pemeran Utama Pria",
+        "Serangan balik",
+        "Kekuatan super",
+        "Sistem"
+      ],
+      {
+        "s": "arr"
+      }
+    ],
+    "description": "Demi memenangkan Lomba Streaming Bertahan Hidup, Rizky Pratama mengandalkan Sistem dan keahlian bertahan hidupnya untuk mengalahkan Yusuf Santoso dan Kevin Santoso. Ia membuktikan diri lewat aksi heroik, menghadapi bahaya di hutan, bertemu Manusia Liar Nusantara, dan menjalin cinta. Akhirnya, Rizky keluar sebagai juara.",
+    "cover_url": "https://cloudins-cdn.insjay.biz.id/media/V10HRfCdhladezT7Fs637aupTqICfvWEhHR5",
+    "created_at": "2026-04-24T13:07:04.543Z",
+    "episodes": [
+      {
+        "index": 1,
+        "vid": "7629646499810380805",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/0OU6C2xueb2sckBdmf5jxzLpkWKqpXB5fjSI",
+        "uploaded_at": "2026-04-24T13:07:15.969Z"
+      },
+      {
+        "index": 2,
+        "vid": "7629646566382390277",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/3XZsruWM5oiidPUOaJrm8HyDMXoMm16lykqt",
+        "uploaded_at": "2026-04-24T13:07:15.367Z"
+      },
+      {
+        "index": 3,
+        "vid": "7629646593574046773",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/cG5kVFyc70OFaw73Bv1rxERsDJrY1yUW41pl",
+        "uploaded_at": "2026-04-24T13:07:15.139Z"
+      },
+      {
+        "index": 4,
+        "vid": "7629646596472327173",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/I8Lrsr61qM9PMkAB6HKVgE98OwnsJl9yl5Yo",
+        "uploaded_at": "2026-04-24T13:07:14.464Z"
+      },
+      {
+        "index": 5,
+        "vid": "7629646633986182149",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/MZwH1k4DZyzL041h6i5osCS19QcKzCgPH1v3",
+        "uploaded_at": "2026-04-24T13:07:14.893Z"
+      },
+      {
+        "index": 6,
+        "vid": "7629646636976704517",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Ed2qYG4b8raHPkCtV3SbeubuXZXWppeRMnjG",
+        "uploaded_at": "2026-04-24T13:07:16.723Z"
+      },
+      {
+        "index": 7,
+        "vid": "7629646698180004869",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/8RlBXUz9qymfFNwHnA08lFrT1XkGvfCdW9WG",
+        "uploaded_at": "2026-04-24T13:07:14.854Z"
+      },
+      {
+        "index": 8,
+        "vid": "7629646738051042357",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/tMC1mzzJSuXOD7Tu9fEpKsxQXzmVXQb3qBuL",
+        "uploaded_at": "2026-04-24T13:07:24.631Z"
+      },
+      {
+        "index": 9,
+        "vid": "7629646741414874117",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/pMYPh6w9I35EfYBVvG4XN89TIDuKim94n5d3",
+        "uploaded_at": "2026-04-24T13:07:26.619Z"
+      },
+      {
+        "index": 10,
+        "vid": "7629646744241835061",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/qVciUY2tSPPf3gFqh56l6Dh9Qc2pu4qGq2fZ",
+        "uploaded_at": "2026-04-24T13:07:24.493Z"
+      },
+      {
+        "index": 11,
+        "vid": "7629646747454671925",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/HP5Bz4iNmBOzOohQrp5cg2wKvJrgORMST7cC",
+        "uploaded_at": "2026-04-24T13:07:22.915Z"
+      },
+      {
+        "index": 12,
+        "vid": "7629646750155803653",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Ohmbpv86DRGnqFW3LLMtZva8sx61U6BHRq7M",
+        "uploaded_at": "2026-04-24T13:07:26.348Z"
+      },
+      {
+        "index": 13,
+        "vid": "7629646794598648885",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/G0FvBMORrGStZhGD0s8fVppeUX0LIUNG379p",
+        "uploaded_at": "2026-04-24T13:07:23.550Z"
+      },
+      {
+        "index": 14,
+        "vid": "7629646854879185973",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/rEStdkiMaP1a2XH11OqJNSS2XSLtaBgnCb4r",
+        "uploaded_at": "2026-04-24T13:07:24.019Z"
+      },
+      {
+        "index": 15,
+        "vid": "7629646950958124037",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/1TiQHmuwAEx0OjjZ8Fw6LGWX5RLPgctnSimn",
+        "uploaded_at": "2026-04-24T13:07:33.924Z"
+      },
+      {
+        "index": 16,
+        "vid": "7629646981371022341",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/xKpyVyOepAq0WckSS1eoRJSofHVYbxzK8cOb",
+        "uploaded_at": "2026-04-24T13:07:35.154Z"
+      },
+      {
+        "index": 17,
+        "vid": "7629646984508345349",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/sdlkttI6gEQ6Ch8pLGB9c5kOJeTkYjCDjjht",
+        "uploaded_at": "2026-04-24T13:07:35.031Z"
+      },
+      {
+        "index": 18,
+        "vid": "7629647033871125509",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/J4zkBF8sPY6alj1bNXORlKbSkS2UGRISmSTv",
+        "uploaded_at": "2026-04-24T13:07:33.633Z"
+      },
+      {
+        "index": 19,
+        "vid": "7629647036928773125",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Y9TpBWBwNUq85M8qkinAu0rAo73mhCAKizTO",
+        "uploaded_at": "2026-04-24T13:07:34.604Z"
+      },
+      {
+        "index": 20,
+        "vid": "7629647039696997429",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/VhXPYZi2mfEOY3yuhYft0QSifs2HwrtToxku",
+        "uploaded_at": "2026-04-24T13:07:33.418Z"
+      },
+      {
+        "index": 21,
+        "vid": "7629647042435877941",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/KVM6tNCqw1GnKJgZa2j9WkgPy2LFpEA1RToe",
+        "uploaded_at": "2026-04-24T13:07:33.302Z"
+      },
+      {
+        "index": 22,
+        "vid": "7629647045178969093",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/2ZPyQNmvHhdFAVJVRvHUxcLRfnBandVWwp4f",
+        "uploaded_at": "2026-04-24T13:07:42.105Z"
+      },
+      {
+        "index": 23,
+        "vid": "7629647074161593349",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/4Tdkgb8j8Pr6f6hPC4MsMi2tp1qtwzh4O3js",
+        "uploaded_at": "2026-04-24T13:07:41.867Z"
+      },
+      {
+        "index": 24,
+        "vid": "7629647076661398533",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/LHZVWv6xIvd5vYYf3o7JuoPKJLYC7UN4hgNi",
+        "uploaded_at": "2026-04-24T13:07:44.509Z"
+      },
+      {
+        "index": 25,
+        "vid": "7629647079790349365",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/8sGxrQPA79YfXh2a2KzNK3tMqR7VrszJTcFz",
+        "uploaded_at": "2026-04-24T13:07:43.594Z"
+      },
+      {
+        "index": 26,
+        "vid": "7629647130327518261",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/2C71TFuhupap3IXiTMAzK7npcwvDjm39lvsd",
+        "uploaded_at": "2026-04-24T13:07:42.410Z"
+      },
+      {
+        "index": 27,
+        "vid": "7629647133859122229",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/zX81OJ5we0am4OzzgifbGUd2YtDMyaynqQiQ",
+        "uploaded_at": "2026-04-24T13:07:41.468Z"
+      },
+      {
+        "index": 28,
+        "vid": "7629647256223747077",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/ThDIA8YLdIjRPEWwTww0xPX4nGrVve2J3Jz9",
+        "uploaded_at": "2026-04-24T13:07:44.146Z"
+      },
+      {
+        "index": 29,
+        "vid": "7629647318446246917",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/2YKvoj3Go9sONBKM7C4hwObksfuIhCH9ovOr",
+        "uploaded_at": "2026-04-24T13:07:54.241Z"
+      },
+      {
+        "index": 30,
+        "vid": "7629647336603388933",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/xDRlhO4kvLZ2INsoPaTVd6YZpo25WQyYt4m0",
+        "uploaded_at": "2026-04-24T13:07:51.604Z"
+      },
+      {
+        "index": 31,
+        "vid": "7629647381520206853",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/arQ6f89Kjl9rX4kgOJvHFTLHjxxLc6TH6VxG",
+        "uploaded_at": "2026-04-24T13:07:50.388Z"
+      },
+      {
+        "index": 32,
+        "vid": "7629647384569465861",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/c5fRVZ2fgXmRHuwsTzk0A3jweZMQByd9OiE3",
+        "uploaded_at": "2026-04-24T13:07:52.154Z"
+      },
+      {
+        "index": 33,
+        "vid": "7629647399312428085",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/7sItOHQV67HBBjtM1UjP15yx6AMexhnorXQe",
+        "uploaded_at": "2026-04-24T13:07:52.045Z"
+      },
+      {
+        "index": 34,
+        "vid": "7629647419499629573",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/SF5UP9vH3kqQOLWqNFmLD5w17G23idrwpcOe",
+        "uploaded_at": "2026-04-24T13:07:52.129Z"
+      },
+      {
+        "index": 35,
+        "vid": "7629647436838865925",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Mu1AgZ9kW9ksrzBxitCf28yO4vEGZZfth2ik",
+        "uploaded_at": "2026-04-24T13:07:51.513Z"
+      },
+      {
+        "index": 36,
+        "vid": "7629647459551022085",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/cjFXrCn8CEVWnoOlLOoMHPYV7tf0te58ic57",
+        "uploaded_at": "2026-04-24T13:08:01.201Z"
+      },
+      {
+        "index": 37,
+        "vid": "7629647462851955717",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Uv29eW6UMa4xsI2M2Edu76nvQB9aLhKZScVv",
+        "uploaded_at": "2026-04-24T13:08:01.602Z"
+      },
+      {
+        "index": 38,
+        "vid": "7629647500365794357",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/zEMxmPRotz0XLwtrhdPqaU98iaXwbPim3vq8",
+        "uploaded_at": "2026-04-24T13:08:03.449Z"
+      },
+      {
+        "index": 39,
+        "vid": "7629647504010644533",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/JyZCp7G0J94HVEqBAapck56M3sRFoIfQyYJn",
+        "uploaded_at": "2026-04-24T13:08:01.471Z"
+      },
+      {
+        "index": 40,
+        "vid": "7629647506585947141",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/wYysyMNBHEZm6EXPS1CwRNGQjJct5iVOl6CJ",
+        "uploaded_at": "2026-04-24T13:08:00.630Z"
+      },
+      {
+        "index": 41,
+        "vid": "7629647527616187445",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/2JXdTAPIpDuBzIYrq9s6SgKwAvBDSbITGNJt",
+        "uploaded_at": "2026-04-24T13:08:01.778Z"
+      },
+      {
+        "index": 42,
+        "vid": "7629647535996406789",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/5K6EUeX00vAPHUwV9KORSRrh5RzWJb7sntZt",
+        "uploaded_at": "2026-04-24T13:08:00.856Z"
+      },
+      {
+        "index": 43,
+        "vid": "7629647543218998277",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/2xFcaxdhZ9tiYjGU5yNj8bmVGbsfan5JHWNW",
+        "uploaded_at": "2026-04-24T13:08:09.413Z"
+      },
+      {
+        "index": 44,
+        "vid": "7629647553058851845",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/pYbNFpM3a70Znea4WRlSI7ITCMJNUw2fD0kW",
+        "uploaded_at": "2026-04-24T13:08:12.169Z"
+      },
+      {
+        "index": 45,
+        "vid": "7629647556204563461",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/SLVlYo7gqIgA4du28qMWlVrtJ7082EhUrGbg",
+        "uploaded_at": "2026-04-24T13:08:08.870Z"
+      },
+      {
+        "index": 46,
+        "vid": "7629647558972820485",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/2KuuldmL4XlmF9Qd2VJUaUWDmAf1eefxIJgQ",
+        "uploaded_at": "2026-04-24T13:08:09.851Z"
+      },
+      {
+        "index": 47,
+        "vid": "7629647573019528245",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/8Tqqa14lW7M8xSqmSiVgoE9hI0j29D4hV0jK",
+        "uploaded_at": "2026-04-24T13:08:10.623Z"
+      },
+      {
+        "index": 48,
+        "vid": "7629647575745825797",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/WQmewCEhEZiIwgtT4BvbGIMbIG8ZwU6P8aww",
+        "uploaded_at": "2026-04-24T13:08:11.231Z"
+      },
+      {
+        "index": 49,
+        "vid": "7629647598357335045",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/fWYzBPW57Y7VKkkEZhLIhusq8DWdW27Cu618",
+        "uploaded_at": "2026-04-24T13:08:10.712Z"
+      },
+      {
+        "index": 50,
+        "vid": "7629647601549184005",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/6hUd3asCYwzb8Xf6MW7iIqbUTexMpq4Kl3zE",
+        "uploaded_at": "2026-04-24T13:08:19.222Z"
+      },
+      {
+        "index": 51,
+        "vid": "7629647604971736117",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/L13psv1sabSv1umf7jCFjZ2VwGyDs2K8Ktkd",
+        "uploaded_at": "2026-04-24T13:08:19.702Z"
+      },
+      {
+        "index": 52,
+        "vid": "7629647607920331829",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/nORuPbMY6YRhmuK9qH5wiNOhaLpP67IdFchS",
+        "uploaded_at": "2026-04-24T13:08:19.203Z"
+      },
+      {
+        "index": 53,
+        "vid": "7629647723376938037",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/SogihRjKWxvZtNHSastfBqKVlz0CHLXDFpkY",
+        "uploaded_at": "2026-04-24T13:08:19.959Z"
+      },
+      {
+        "index": 54,
+        "vid": "7629647726522666037",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/6emYmWPel2Vr67uqUQ4rgrRboLyzqBNtcF1W",
+        "uploaded_at": "2026-04-24T13:08:20.466Z"
+      },
+      {
+        "index": 55,
+        "vid": "7629647729571925045",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/bjiSuwoyGAidJOhDgscfvNw93XKspzTW1ipQ",
+        "uploaded_at": "2026-04-24T13:08:19.932Z"
+      },
+      {
+        "index": 56,
+        "vid": "7629647735045491765",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/49wmR5eMq2NXm7c7bvtD6B6YkuexINTnrG5g",
+        "uploaded_at": "2026-04-24T13:08:19.947Z"
+      },
+      {
+        "index": 57,
+        "vid": "7629647738497403957",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/XTU0mTmo0ReHC7A08GxNWsApbsyofLg2y7tt",
+        "uploaded_at": "2026-04-24T13:08:26.847Z"
+      },
+      {
+        "index": 58,
+        "vid": "7629647741362113541",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/lyRwOPChT1MvS5OGlr11HMPNskCiyTG9ELLd",
+        "uploaded_at": "2026-04-24T13:08:27.763Z"
+      },
+      {
+        "index": 59,
+        "vid": "7629647744239406133",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/L8UHSlllI68Izzo9LUE9V80JVzvFWxn8UbxZ",
+        "uploaded_at": "2026-04-24T13:08:27.870Z"
+      },
+      {
+        "index": 60,
+        "vid": "7629647746969897989",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/INlXIotrN9tVDZE84ymAbH0dPnYyHAamcQsa",
+        "uploaded_at": "2026-04-24T13:08:28.016Z"
+      },
+      {
+        "index": 61,
+        "vid": "7629647769849842693",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/rp1QUaTArNvRp1JfFJJezPs6QT4ENjsTkBIG",
+        "uploaded_at": "2026-04-24T13:08:27.988Z"
+      },
+      {
+        "index": 62,
+        "vid": "7629647796731120693",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/dx13cpdV6OMYGyST0sFPoo7ZskJYwVZVHtYM",
+        "uploaded_at": "2026-04-24T13:08:26.382Z"
+      },
+      {
+        "index": 63,
+        "vid": "7629647799641967669",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/MmIiwaGFnO3JddMzkIkaS9WUhJdI7ikITasA",
+        "uploaded_at": "2026-04-24T13:08:27.828Z"
+      },
+      {
+        "index": 64,
+        "vid": "7629647847721274373",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/fnyySXur2S8PALZ1LkDboG6ad97foSc7GXOG",
+        "uploaded_at": "2026-04-24T13:08:35.178Z"
+      },
+      {
+        "index": 65,
+        "vid": "7629647860300008453",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/fuLuLHj4dioLwFCErpSzqpeXxLFYmH2LteX1",
+        "uploaded_at": "2026-04-24T13:08:33.776Z"
+      },
+      {
+        "index": 66,
+        "vid": "7629647863181495301",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Wd9PzD3AVAI7P5symnSVA0VNI6oGGS1CXnu5",
+        "uploaded_at": "2026-04-24T13:08:34.334Z"
+      },
+      {
+        "index": 67,
+        "vid": "7629647896073210933",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/AajckcytPrtdG6FltZS3uGNWSU5RRTwn8Lhr",
+        "uploaded_at": "2026-04-24T13:08:34.787Z"
+      },
+      {
+        "index": 68,
+        "vid": "7629647899734838325",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/99lPpveUAzWvUHHmJMXdHWFiuAQrtllHcOjq",
+        "uploaded_at": "2026-04-24T13:08:35.922Z"
+      },
+      {
+        "index": 69,
+        "vid": "7629647903304191029",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/NY7BAjMHg27qAEMJFZpIkbr2ZHXX3Ve71Txf",
+        "uploaded_at": "2026-04-24T13:08:34.376Z"
+      },
+      {
+        "index": 70,
+        "vid": "7629647949047286789",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/TrelpxN9ElBOG49AZigBXHUnZOlxNPTxMuma",
+        "uploaded_at": "2026-04-24T13:08:34.883Z"
+      },
+      {
+        "index": 71,
+        "vid": "7629647972040444933",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/HadVz6R2popocVxCL3Lb87llEoQPr4wX95VI",
+        "uploaded_at": "2026-04-24T13:08:43.531Z"
+      },
+      {
+        "index": 72,
+        "vid": "7629647976507378741",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/i2twBKQA7XRqliJz6GVfFtqKaM82VMWQivmV",
+        "uploaded_at": "2026-04-24T13:08:42.557Z"
+      },
+      {
+        "index": 73,
+        "vid": "7629648009218755637",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/ToZLW09G71efEfvywLm1OSBsy4lmA5C3VucR",
+        "uploaded_at": "2026-04-24T13:08:42.323Z"
+      },
+      {
+        "index": 74,
+        "vid": "7629648062595468341",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/WvjNHR6MV6KTFKS1IHwMQlQEkP0ixVfdCt7x",
+        "uploaded_at": "2026-04-24T13:08:41.703Z"
+      },
+      {
+        "index": 75,
+        "vid": "7629648065497943045",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/PrQUPcGorbXCnw7A9fd8ekpA7ZpP7znTzuZw",
+        "uploaded_at": "2026-04-24T13:08:42.274Z"
+      },
+      {
+        "index": 76,
+        "vid": "7629648082124147765",
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/mxW4St2fJIHQmVCpovVBqbq5RuwWFoJBdUAQ",
+        "uploaded_at": "2026-04-24T13:08:42.846Z"
+      }
+    ]
   }
 ]
