@@ -52063,5 +52063,35 @@
         "video_url": "https://cloudins-cdn.insjay.biz.id/media/TXb3iafs69Ml1IzbA7QSMiumQkYIweodfwMs"
       }
     ]
+  },
+  {
+    "book_id": "7616243362412104709",
+    "title": "Cahaya Kasih untuk Nadia",
+    "description": "",
+    "cover_url": "https://wsrv.nl/?output=jpg&url=ssl%3Ap16-novel-sg.ibyteimg.com%2Fnovel-images-sg%2Fbb91f2cd23c0db327f7dbf7d117e423e~tplv-shrink%3A640%3A0.heic",
+    "genres": [],
+    "episodes": [
+      {
+        "index": 2,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/QRJNd1HQrDnnL9mEMiBbKW4MkYhWNmJvGbte"
+      },
+      {
+        "index": 3,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/Cj7iu7WkpEvfoIt2zupgwF4guMqQSgvnfoG3"
+      },
+      {
+        "index": 5,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/qW6DD9hlScdWoJXLBoQ9ApXQAwxApRz8On05"
+      },
+      {
+        "index": 6,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/y3Ch9bFXPn6tmTG7lczrYJ6CtLDOnBYi70cz"
+      },
+      {
+        "index": 7,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/media/24VLVqi17lHJufcCdp1ZZI1dBR9bBzHfnmm4"
+      }
+    ],
+    "created_at": "2026-04-24T06:22:23.167Z"
   }
 ]
