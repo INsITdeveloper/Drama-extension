@@ -74120,5 +74120,33 @@
         "uploaded_at": "2026-04-29T06:25:30.865Z"
       }
     ]
+  },
+  {
+    "book_id": "7645720979502533685",
+    "title": "Bukan Ibu Tiri Jahat",
+    "genres": [
+      "Ceo",
+      "Bayi Lucu",
+      "Romansa",
+      "Romansa Fantasi",
+      "Time Travel"
+    ],
+    "description": "Seorang pekerja kantoran tiba-tiba masuk ke tubuh ibu tiri di keluarga kaya. Ia kira suaminya kakek tua, ternyata CEO tampan 35 tahun, tambah anak tiri 15 tahun yang cerewet. Dari ingin cerai sampai jadi keluarga dadakan, kisah mereka penuh tawa, adu akal, dan kehangatan.",
+    "cover_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-cover.jpg",
+    "created_at": "2026-07-25T15:30:00.000Z",
+    "episodes": [
+      {
+        "index": 1,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-episode1.mp4"
+      },
+      {
+        "index": 2,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-episode2.mp4"
+      },
+      {
+        "index": 3,
+        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-episode3.mp4"
+      }
+    ]
   }
 ]
