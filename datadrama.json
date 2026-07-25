@@ -74122,38 +74122,66 @@
     ]
   },
   {
-    "book_id": "7633701555887148085",
-    "title": "Anak Selamatkan Ibu",
+    "book_id": "7645720979502533685",
+    "title": "Bukan Ibu Tiri Jahat",
     "genres": [
       "Ceo",
       "Bayi Lucu",
       "Romansa",
-      "Pertumbuhan Wanita",
-      "Serangan balik",
-      "Kelahiran kembali"
+      "Romansa Fantasi",
+      "Time Travel"
     ],
-    "description": "Indah Permata mengorbankan karier demi keluarga, namun malah diusir tanpa harta oleh Arman Wijaya dan keluarganya. Setelah Indah meninggal dalam kesulitan, putrinya Ayu terlahir kembali. Dengan tekad kuat, Ayu berjuang membela sang ibu dan membalas dendam pada keluarga Wijaya.",
-    "cover_url": "https://cloudins-cdn.insjay.biz.id/drama/media/anak-selamatkan-ibu-cover.jpg",
+    "description": "Seorang pekerja kantoran tiba-tiba masuk ke tubuh ibu tiri di keluarga kaya. Ia kira suaminya kakek tua, ternyata CEO tampan 35 tahun, tambah anak tiri 15 tahun yang cerewet.",
+    "cover_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-cover.jpg",
     "episodes": [
       {
         "index": 1,
-        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/anak-selamatkan-ibu-episode1.mp4"
+        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-episode1.mp4"
       }
     ],
-    "created_at": "2026-07-25T15:41:26.484623+00:00"
+    "created_at": "2026-07-25T15:42:21.609892+00:00"
   },
   {
-    "book_id": "7580622203637468213",
-    "title": "Kasih Ibu yang Salah",
+    "book_id": "7641451163904117765",
+    "title": "Rahasia Ibu yang Gila",
     "genres": [
-      "Keluarga",
+      "Serangan balik",
       "Romansa",
-      "Ketegangan",
-      "Drama Keluarga"
+      "Drama Periode",
+      "Keluarga"
     ],
-    "description": "Nia kehilangan kasih sayang keluarga karena ibu tiri, Bu Sari, memihak Rina. Difitnah dan dipaksa bekerja keras, Nia dihabisi oleh suruhan Rina.",
-    "cover_url": "https://wsrv.nl/?url=https%3A%2F%2Fp16-novel-sign.fizzopic.org%2Fnovel-images-apsoutheast%2Fc9b0af0d2082d0a874acb037c2683fda~tplv-836v1mcgsk-image-quality-ttk1-cp%3A570%3A810.heic&output=jpg&q=85",
+    "description": "Ibu Laras dikenal gila, sementara ayahnya Budi dipuji baik dan setia. Namun, Budi diam-diam menyiksa sang ibu tiap malam. Demi menyelamatkan ibunya, Laras merantau ke ibu kota dan baru tahu ibunya bangsawan.",
+    "cover_url": "https://wsrv.nl/?url=https%3A%2F%2Fp16-novel-sign.fizzopic.org%2Fnovel-images-apsoutheast%2Fcfd481516ef3e0ab3e98f991383d18c5~tplv-836v1mcgsk-image-quality-ttk1-cp%3A570%3A810.heic&output=jpg&q=85",
     "episodes": [],
-    "created_at": "2026-07-25T15:41:26.484643+00:00"
+    "created_at": "2026-07-25T15:42:21.609892+00:00"
+  },
+  {
+    "book_id": "7629620705998425093",
+    "title": "Kasih Ibu Tiri",
+    "genres": [
+      "Ibu tiri",
+      "Serangan balik",
+      "Romansa",
+      "Drama Keluarga",
+      "Keluarga"
+    ],
+    "description": "Setelah suaminya meninggal, Ibu Sari tetap merawat Rama meski dihina dan ditentang. Ia bekerja keras agar Rama bisa kuliah, namun hubungan dengan putrinya makin renggang.",
+    "cover_url": "https://wsrv.nl/?url=https%3A%2F%2Fp16-novel-sign.fizzopic.org%2Fnovel-images-apsoutheast%2Fa8c64c327bff28bcdc6040f28ba67e2e~tplv-836v1mcgsk-image-quality-ttk1-cp%3A570%3A810.heic&output=jpg&q=85",
+    "episodes": [],
+    "created_at": "2026-07-25T15:42:21.609892+00:00"
+  },
+  {
+    "book_id": "7583962380166499381",
+    "title": "Anak dan Ibu di Era 90-an",
+    "genres": [
+      "Kelahiran kembali",
+      "Romansa",
+      "Periode Romantis",
+      "Serangan balik"
+    ],
+    "description": "Bunga, anak jenius yang terlahir kembali, bertekad mengubah nasib ibunya, Ibu Sari, yang selama ini dihina dan diabaikan oleh suaminya.",
+    "cover_url": "https://wsrv.nl/?url=https%3A%2F%2Fp16-novel-sign.fizzopic.org%2Fnovel-images-apsoutheast%2F61a5dacb4a8da4e31c9d4c1367e21888~tplv-836v1mcgsk-image-quality-ttk1-cp%3A570%3A810.heic&output=jpg&q=85",
+    "episodes": [],
+    "created_at": "2026-07-25T15:42:21.609892+00:00"
   }
 ]
