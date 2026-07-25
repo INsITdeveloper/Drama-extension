@@ -74122,31 +74122,38 @@
     ]
   },
   {
-    "book_id": "7645720979502533685",
-    "title": "Bukan Ibu Tiri Jahat",
+    "book_id": "7633701555887148085",
+    "title": "Anak Selamatkan Ibu",
     "genres": [
       "Ceo",
       "Bayi Lucu",
       "Romansa",
-      "Romansa Fantasi",
-      "Time Travel"
+      "Pertumbuhan Wanita",
+      "Serangan balik",
+      "Kelahiran kembali"
     ],
-    "description": "Seorang pekerja kantoran tiba-tiba masuk ke tubuh ibu tiri di keluarga kaya. Ia kira suaminya kakek tua, ternyata CEO tampan 35 tahun, tambah anak tiri 15 tahun yang cerewet. Dari ingin cerai sampai jadi keluarga dadakan, kisah mereka penuh tawa, adu akal, dan kehangatan.",
-    "cover_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-cover.jpg",
-    "created_at": "2026-07-25T15:30:00.000Z",
+    "description": "Indah Permata mengorbankan karier demi keluarga, namun malah diusir tanpa harta oleh Arman Wijaya dan keluarganya. Setelah Indah meninggal dalam kesulitan, putrinya Ayu terlahir kembali. Dengan tekad kuat, Ayu berjuang membela sang ibu dan membalas dendam pada keluarga Wijaya.",
+    "cover_url": "https://cloudins-cdn.insjay.biz.id/drama/media/anak-selamatkan-ibu-cover.jpg",
     "episodes": [
       {
         "index": 1,
-        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-episode1.mp4"
-      },
-      {
-        "index": 2,
-        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-episode2.mp4"
-      },
-      {
-        "index": 3,
-        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/bukan-ibu-tiri-jahat-episode3.mp4"
+        "video_url": "https://cloudins-cdn.insjay.biz.id/drama/media/anak-selamatkan-ibu-episode1.mp4"
       }
-    ]
+    ],
+    "created_at": "2026-07-25T15:41:26.484623+00:00"
+  },
+  {
+    "book_id": "7580622203637468213",
+    "title": "Kasih Ibu yang Salah",
+    "genres": [
+      "Keluarga",
+      "Romansa",
+      "Ketegangan",
+      "Drama Keluarga"
+    ],
+    "description": "Nia kehilangan kasih sayang keluarga karena ibu tiri, Bu Sari, memihak Rina. Difitnah dan dipaksa bekerja keras, Nia dihabisi oleh suruhan Rina.",
+    "cover_url": "https://wsrv.nl/?url=https%3A%2F%2Fp16-novel-sign.fizzopic.org%2Fnovel-images-apsoutheast%2Fc9b0af0d2082d0a874acb037c2683fda~tplv-836v1mcgsk-image-quality-ttk1-cp%3A570%3A810.heic&output=jpg&q=85",
+    "episodes": [],
+    "created_at": "2026-07-25T15:41:26.484643+00:00"
   }
 ]
